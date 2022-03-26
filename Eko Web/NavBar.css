@@ -1,10 +1,13 @@
 table{
     width: 100%;
-    background-color: aquamarine;
-    
-
+    background-color: rgb(77, 189, 111);
+    border-top: 0px;
 }
 
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
 
 
 .mt{
@@ -26,4 +29,18 @@ table{
 
 .mox{
     padding-left: 5%;
+}
+
+th{
+    color: aliceblue;
+}
+
+img{
+    width: 60px;
+    margin-left: 160px;
+    margin-right: -160px;
+}
+
+h1{
+    margin-left: 0%;
 }
